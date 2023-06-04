@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-references/markdown-reference/"}
+{"dg-publish":true,"permalink":"/obsidian-references/markdown-reference/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 - Ref: https://github.com/christianlempa/cheat-sheets/blob/main/misc/markdown.md
