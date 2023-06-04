@@ -88,7 +88,7 @@ return (
 	<h1> 
 		{user.name} 
 	</h1> 
-)`
+)
 ```
 - "Escape into JavaScript" also works for JSX attributes.
 	- You have to use curly braces *instead* of quotes:
@@ -101,9 +101,10 @@ return (
 - Below is an example of Displaying Data:
 
 ![React Quick Start Profile Output.png](/img/user/React%20Tutorial/Attachments/React%20Quick%20Start%20Profile%20Output.png)
+
 ---
  >==**Note:**==
->	The `style = {{ }}` is not a special syntax, it just a regular JS {} object inside of a JSX `{}`.
+>	The  is not a special syntax, it just a regular JS {} object inside of a JSX `{}`.
 >	Using the style attribute allows JS Variables to define styles.
 ---
 
