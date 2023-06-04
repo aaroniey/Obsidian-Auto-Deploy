@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/react-tutorial/react-quick-start/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/react-tutorial/react-quick-start/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Overview
@@ -104,7 +104,7 @@ return (
 
 ---
  >==**Note:**==
->	The `style =  ` is not a special syntax, it just a regular JS {} object inside of a JSX `{}`.
+>	The `style = { } ` is not a special syntax, it just a regular JS {} object inside of a JSX `{}`.
 >	Using the style attribute allows JS Variables to define styles.
 ---
 
