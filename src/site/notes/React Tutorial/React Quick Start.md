@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/react-tutorial/react-quick-start/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/react-tutorial/react-quick-start/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Overview
