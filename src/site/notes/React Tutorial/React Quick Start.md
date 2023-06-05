@@ -99,7 +99,30 @@ return (
 )
 ```
 - Below is an example of Displaying Data:
+```JSX
+const user = {
+	name: 'Hedy Lamarr',
+	imageURL: 'https://i.imgur.com/yXOvdOSs.jpg',
+	imageSize: 90,
+};
 
+export default function Profile(){
+	return (
+		<>
+			<h1>{user.name}</h1>
+			<img
+		        className="avatar"
+		        src={user.imageUrl}
+		        alt={'Photo of ' + user.name}
+		        style={{
+		          width: user.imageSize,
+		          height: user.imageSize
+		        } }
+		      />
+		</>
+	);
+}
+```
 ![React Quick Start Profile Output.png](/img/user/React%20Tutorial/Attachments/React%20Quick%20Start%20Profile%20Output.png)
 
 ---
